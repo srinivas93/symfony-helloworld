@@ -1,0 +1,7 @@
+tamago_test:
+    resource: "@TamagoTestBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation

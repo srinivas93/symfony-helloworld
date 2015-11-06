@@ -1,0 +1,4 @@
+services:
+#    tamago_test.example:
+#        class: Tamago\TestBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
